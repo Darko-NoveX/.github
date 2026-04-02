@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Darko Innovex</h1>
+  <h1>Darko NoveX</h1>
   <h3>Unleashing Innovation, Exceeding Expectations</h3>
   <h4>Empowering Businesses Through Technology</h4>
 </div>
 
 ---
 
-Welcome to **Darko Innovex** – a pioneering software development team based in Sri Lanka, dedicated to crafting cutting-edge solutions that drive progress and transform industries. We believe in pushing boundaries, exceeding client expectations, and delivering premium software products that shape the future.
+Welcome to **Darko NoveX** – a pioneering software development team based in Sri Lanka, dedicated to crafting cutting-edge solutions that drive progress and transform industries. We believe in pushing boundaries, exceeding client expectations, and delivering premium software products that shape the future.
 
 ## 🚀 About Us
 At **Darko Innovex**, we specialize in building scalable, secure, and innovative software solutions tailored to meet the dynamic needs of businesses across various domains. Our team consists of passionate developers, designers, and strategists who collaborate to turn ideas into reality.
@@ -33,7 +33,7 @@ To become a global leader in software innovation by consistently delivering exce
 - **Global Reach** – Collaborations with clients across different regions and industries.
 
 ## 📬 Contact Us
-📧 **Email**: [darkoinnovex@gmail.com](mailto:darkoinnovex@gmail.com)  
+📧 **Email**: [darkonovex@gmail.com](mailto:darkonovex@gmail.com)  
 🔗 **LinkedIn**: [Darko Innovex](https://www.linkedin.com/company/darko-innovex)  
 🔗 **Facebook**: [Darko Innovex](https://www.facebook.com/profile.php?id=61558756630986&mibextid=ZbWKwL)  
 
